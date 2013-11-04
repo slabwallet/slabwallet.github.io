@@ -23,13 +23,14 @@ url:              http://slabwallet.github.io/
 project:
   #
   # Name of the project
-  name:           Slab wallet
+  name:           Slab - Great magic travel wallet that keeps your cash, memory, sim and credit cards safe.
+
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
-  url:            http://kck.st/12bbLkw
+  url:            http://goo.gl/Vhfj6e
   #
   # URL of a cover photo of your project
-  cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
+  cover_image:    http://media-cache-ec0.pinimg.com/originals/a0/59/43/a0594359f9b1a64e81cd284897dbf18f.jpg
   #
   # Use a one-liner to describe your project
   description:    Slab - Great magic travel wallet that keeps your cash, memory, sim and credit cards safe.
